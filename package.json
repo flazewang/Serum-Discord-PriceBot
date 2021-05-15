@@ -1,0 +1,19 @@
+{
+  "name": "DiscordSolanaPrice",
+  "version": "1.0.0",
+  "description": "Auto discord price bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "StonksDev",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@project-serum/serum": "^0.13.34",
+    "@solana/web3.js": "^1.10.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
